@@ -1,8 +1,5 @@
 <h1 align="center"> Weather Prediction Algorithm</h1>
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
 
 - ### Tech Stack used:
 	<center>
