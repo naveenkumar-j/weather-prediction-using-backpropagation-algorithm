@@ -1,4 +1,4 @@
-<h1 align="center"> Weather Prediction Algorithm</h1>
+<h1 align="center" id="weather-prediction"> Weather Prediction Algorithm</h1>
 
 
 - ### Tech Stack used:
@@ -36,5 +36,5 @@ variation on alternative parameters saying humidness, temperature, andrain which
 ![image](https://user-images.githubusercontent.com/70682152/164368263-8ac07390-81af-46a5-a9d4-ad557decb8d6.png)
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#weather-prediction">↥ back to top</a></b>
 </div>
